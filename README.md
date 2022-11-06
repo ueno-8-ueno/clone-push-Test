@@ -1,0 +1,2 @@
+# clone-push-Test
+cloneとpushのテスト
