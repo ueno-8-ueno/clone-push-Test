@@ -10,3 +10,8 @@ public class GithubTest{
 public void createBranch(){
     System.out.println("ブランチを作成後、コードを追記しました。");
 }
+
+public int missMethod(){
+    System.out.println("間違えた実装をしてしまった");
+    return -1;
+}
