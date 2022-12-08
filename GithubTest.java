@@ -10,5 +10,3 @@ public class GithubTest{
 public void createBranch(){
     System.out.println("ブランチを作成後、コードを追記しました。");
 }
-
-int a=0;//間違えた実装
