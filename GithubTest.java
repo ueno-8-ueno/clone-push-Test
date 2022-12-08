@@ -6,3 +6,7 @@ public class GithubTest{
         System.out.prntln("ワークスペース閉じた後に変更");
     }
 }
+
+public void createBranch(){
+    System.out.println("ブランチを作成後、コードを追記しました。");
+}
